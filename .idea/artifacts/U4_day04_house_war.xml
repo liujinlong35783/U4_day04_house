@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="U4_day04_house:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>U4_day04_house</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="U4_day04_house-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="U4_day04_house:war exploded" />
+    </root>
+  </artifact>
+</component>
